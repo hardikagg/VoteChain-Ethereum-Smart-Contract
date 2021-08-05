@@ -27,6 +27,6 @@ Then, open up a new terminal tab:<br><br>
 
 Go back to your previous tab:<br><br>
 
-npm run dev<br><br>
+> npm run dev<br><br>
 
 Don't close any of the terminal.
